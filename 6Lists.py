@@ -10,5 +10,5 @@ newlist = [x for x in fruits if "a" in x]
 print(newlist)
 
 # List objects have a sort() method that will sort the list alphanumerically, ascending, by default:
-print("Sorting fruits ", sort(fruits))
+print("Sorting fruits ", fruits.sort())
 
