@@ -5,7 +5,8 @@
 # The expression is the current item in the iteration, but it is also the outcome, 
 # which you can manipulate before it ends up like a list item in the new list:
 
-veggieList = ["broccoli", "carrot", "eggplant", "gourd", "jicama", "kale", "lemon", "mango"]
-veggies_with_letter_g = [v for item in veggieList if 'g' in v]
-print("veggies_with_letter_g ", veggies_with_letter_g)
+fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
+newlist = [x for x in fruits if "a" in x]
+print(newlist)
+
 
