@@ -13,3 +13,8 @@ print(newlist)
 fruits.sort()
 print( "Sorting fruits ", fruits)
 
+# Sort numerically
+numLst = [500, 2, 75000, 500]
+numLst.sort()
+print("Sort numerically ascending ", numLst)
+
