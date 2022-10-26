@@ -18,3 +18,8 @@ numLst = [500, 2, 75000, 500]
 numLst.sort()
 print("Sort numerically ascending ", numLst)
 
+# Sort numerically descending
+numLstDest = [345, 3000, 1, 2300]
+numLstDest.sort(reverse = True)
+print("Sort descending ", numLstDest)
+
