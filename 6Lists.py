@@ -23,3 +23,7 @@ numLstDest = [345, 3000, 1, 2300]
 numLstDest.sort(reverse = True)
 print("Sort descending ", numLstDest)
 
+# Reverse  list
+thislist = ["banana", "Orange", "Kiwi", "cherry"]
+thislist.reverse()
+print(thislist)
