@@ -1,4 +1,0 @@
-# A set is a collection which is unordered, unchangeable*, and unindexed. Duplicates Not Allowed.
-
-set1 = {"blue", "cyan", "green", "indigo", "mauve"}
-print("set1 ", set1)
